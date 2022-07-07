@@ -1,0 +1,3 @@
+# Autoscaling
+
+Automatic scaling **RabbitMQ**
